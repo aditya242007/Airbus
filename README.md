@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # Airbus - Airline Booking Platform
 =======
 # Airbus Airline Booking Platform
->>>>>>> 9fef841 ()
 
 Airbus is a full-stack airline booking application built to simplify the travel booking journey for users. It helps travelers search for flights, view available seats, reserve a trip, provide passenger details, complete secure payment, and manage their reservations from a single digital experience.
 
