@@ -146,7 +146,3 @@ http://localhost:8088
 ## Contributors
 
 This project is built as a full-stack booking platform for airline-style travel experiences and can be extended with features such as admin dashboards, fare management, inventory controls, and analytics.
-
-## License
-
-This project is currently shared for learning and collaboration within the repository context.
