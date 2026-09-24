@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Airbus - Airline Booking Platform
+=======
+# Airbus Airline Booking Platform
+>>>>>>> 9fef841 ()
 
-Nimbus is a full-stack airline booking application built to simplify the travel booking journey for users. It helps travelers search for flights, view available seats, reserve a trip, provide passenger details, complete secure payment, and manage their reservations from a single digital experience.
+Airbus is a full-stack airline booking application built to simplify the travel booking journey for users. It helps travelers search for flights, view available seats, reserve a trip, provide passenger details, complete secure payment, and manage their reservations from a single digital experience.
 
 This project solves the common pain points of flight booking by combining flight discovery, seat selection, passenger management, payment handling, trip tracking, and travel document generation in one platform.
 
@@ -15,7 +19,7 @@ Traditional flight booking experiences are often fragmented across multiple step
 - pay through separate gateway integrations
 - track cancellations, refunds, and trip records later
 
-Nimbus brings these tasks into a streamlined, end-to-end booking flow so customers can complete bookings quickly and confidently.
+Airbus brings these tasks into a streamlined, end-to-end booking flow so customers can complete bookings quickly and confidently.
 
 ## What the platform includes
 
@@ -70,7 +74,7 @@ flowchart LR
 ## Project structure
 
 ```text
-bus/
+airbus/
 ├── Backend/                 # Go backend source
 ├── frontend/web/            # Next.js frontend application
 ├── static/                 # Static assets and demo/test content
@@ -92,7 +96,7 @@ bus/
 
 ## Core user value
 
-Nimbus is designed for modern air travel booking experiences with a clean UI and a simpler booking flow. It gives users a practical way to:
+Airbus is designed for modern air travel booking experiences with a clean UI and a simpler booking flow. It gives users a practical way to:
 
 - move from search to payment without friction
 - manage booking information in one place
@@ -107,7 +111,7 @@ This project expects a local environment with Docker and the required env files 
 
 ```bash
 git clone https://github.com/aditya242007/bus.git
-cd bus
+cd airbus
 ```
 
 ### 2. Configure environment files

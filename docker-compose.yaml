@@ -3,7 +3,7 @@ version: "3.9"
 services:
   redis:
     image: redis:8-alpine
-    container_name: airlinego-redis
+    container_name: airbus-redis
 
     restart: unless-stopped
 
@@ -40,7 +40,7 @@ services:
       args:
         NEXT_PUBLIC_API_URL: http://localhost:8088/api/v1
 
-    container_name: airlinego-frontend
+    container_name: airbus-frontend
 
     restart: unless-stopped
 

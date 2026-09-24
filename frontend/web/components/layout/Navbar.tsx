@@ -53,7 +53,7 @@ export default function Navbar() {
         <Link href="/" className="flex shrink-0 items-center pl-2 cursor-pointer transition-transform hover:scale-105 active:scale-95">
           <Image
             src="/logo.png"
-            alt="Nimbus Logo"
+            alt="Airbus Logo"
             width={100}
             height={32}
             className="object-contain"

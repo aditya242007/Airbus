@@ -81,7 +81,7 @@ export default function PaymentPage() {
         key: paymentData.key || paymentData.KeyID,
         amount: paymentData.amount || paymentData.Amount,
         currency: paymentData.currency || paymentData.Currency,
-        name: "Nimbus",
+        name: "Airbus",
         description: `Flight Booking - ${originAirport?.code} to ${destinationAirport?.code}`,
         order_id: paymentData.orderId || paymentData.OrderID,
         handler: async function (response: any) {
@@ -113,8 +113,8 @@ export default function PaymentPage() {
           }
         },
         prefill: {
-          name: "AirlineGO Flyer",
-          email: "flyer@airlinego.com",
+          name: "Airbus Flyer",
+          email: "flyer@airbus.com",
           contact: "9999999999"
         },
         theme: {

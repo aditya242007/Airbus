@@ -277,10 +277,10 @@ export default function AllocatedTicketPage() {
                 <Plane className="w-72 h-72 -rotate-12 text-blue-900" />
               </div>
 
-              {/* Header: Nimbus Airways + Status */}
+              {/* Header: Airbus Airways + Status */}
               <div className="flex justify-between items-start mb-10">
                 <div className="flex flex-col">
-                  <span className="text-2xl font-black tracking-tighter text-slate-800 leading-none">Nimbus</span>
+                  <span className="text-2xl font-black tracking-tighter text-slate-800 leading-none">Airbus</span>
                   <span className="text-xs font-bold tracking-widest text-slate-500 uppercase">Airways</span>
                 </div>
 
